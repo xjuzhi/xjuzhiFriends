@@ -12,7 +12,7 @@ setting:
 
   github_friends_links: # github友链配置
     enable: true
-    owner: xaoxuu
-    repo: friends
+    owner: xjuzhi
+    repo: xjuzhiFriends
     state: open
     label: active # none关闭功能
